@@ -1,0 +1,9 @@
+
+Add to vim:
+1. Add nerdtree files.
+2. Add CTags files.
+3. Add folding/auto-intend files.
+
+Add to scripts.
+1. Add stlvector.gdb file 
+2. Collect and collate scripts into one folder.
