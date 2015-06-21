@@ -1,5 +1,12 @@
 [user]
   name = smohanhc
+  email = 
+
+[core]
+	autocrlf = input
+	safecrlf = true
+[diff]
+	external = /home/sumod/grad_skool/ppjts/linux_base/git_diff.sh
 
 [alias]
   co = checkout
